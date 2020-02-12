@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewData["Title"] = "Start";
+}
+
+<div class="startdiv">
+    <h1>Välkommen!</h1>
+</div>
+<div id="menuStart">
+    <h2>Vår meny</h2>
+    <div class="innerContainer">
+        <p>Vi byter regelbundet ut vår meny som baseras på råvaror valda efter säsong. Se aktuell på vår Meny-sida.</p>
+        <div class="btnBox1"><a asp-controller="Home" asp-action="Menu" class="btn">Se vår meny</a></div>
+    </div>
+</div>
+<div id="aboutStart">
+    <h2>Om oss</h2>
+    <div class="innerContainer">
+        <p>Emmas Kök & Bar serverar klassiska rätter med stor variation och klass. Vi finns idag i tre städer: Stockholm, Sundsvall och Umeå.</p>
+        <p>
+            I @ViewData["ort"] kan du besöka oss på:
+        </p>
+        <!--Kontrollerar vilken ort som är vald och skriver ut relevant info-->
+        @if (Convert.ToString(ViewData["ort"]) == "Stockholm")
+        {
+            <p>Helga Lekemens gränd 5<br />111 27 Stockholm</p>
+            <p><b>Boka bord på:</b><br /> 076 900 30 75</p>
+        }
+        else if (Convert.ToString(ViewData["ort"]) == "Sundsvall")
+        {
+            <p>Trädgårdsgatan 8<br />852 31 Sundsvall</p>
+            <p><b>Boka bord på:</b><br />070 977 69 80</p>
+        }
+        else
+        {
+            <p>Kungsgatan 39<br />903 25 Umeå</p>
+            <p><b>Boka bord på:</b><br />070 560 77 60</p>
+        }
+        <!-- Partial - Öppettider -->
+        @await Html.PartialAsync("_OpenHoursPartial")
+        <div class="btnBox2"><a asp-controller="Home" asp-action="About" class="btn">Läs mer om oss</a></div>
+    </div>
+</div>

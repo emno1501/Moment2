@@ -1,0 +1,52 @@
+﻿@model IEnumerable<Moment2.Models.Menu>
+@{
+    ViewData["Title"] = "Meny";
+}
+
+<div class="startdiv menupage">
+    <h1>Meny</h1>
+</div>
+<div id="outerMenuWrapper">
+    <div id="menuContainer">
+        <section>
+            <h2>Förrätter</h2>
+            @foreach (var menuitem in Model) //Loopar igenom model-objekten och skriver ut objekt med DishType == Förrätt
+            {
+                if (menuitem.DishType == "Förrätt")
+                {
+                    <div>
+                        <h3>@menuitem.DishName @if (menuitem.Vego == "Ja") { <b>(Veg)</b> } <span>@menuitem.Price kr</span></h3>
+                        <p>@menuitem.DishDescription</p>
+                    </div>
+                }
+            }
+        </section>
+        <section>
+            <h2>Varmrätter</h2>
+            @foreach (var menuitem in Model) //Loopar igenom model-objekten och skriver ut objekt med DishType == Varmrätt
+            {
+                if (menuitem.DishType == "Varmrätt")
+                {
+                    <div>
+                        <h3>@menuitem.DishName @if (menuitem.Vego == "Ja") { <b>(Veg)</b> } <span>@menuitem.Price kr</span></h3>
+                        <p>@menuitem.DishDescription</p>
+                    </div>
+                }
+            }
+        </section>
+        <section>
+            <h2>Efterrätter</h2>
+            @foreach (var menuitem in Model) //Loopar igenom model-objekten och skriver ut objekt med DishType == Efterrätt
+            {
+                if (menuitem.DishType == "Efterrätt")
+                {
+                    <div>
+                        <h3>@menuitem.DishName @if (menuitem.Vego == "Ja") { <b>(Veg)</b> } <span>@menuitem.Price kr</span></h3>
+                        <p>@menuitem.DishDescription</p>
+                    </div>
+                }
+            }
+        </section>
+    </div>
+</div>
+

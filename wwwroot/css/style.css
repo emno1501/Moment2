@@ -1,0 +1,520 @@
+﻿/*RESET*/
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ul {
+    list-style: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+        content: '';
+        content: none;
+    }
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+/*SLUT RESET*/
+
+html {
+    font-size: 62.5%;
+}
+body {
+    padding-top: 100px;
+}
+p, a, li, td, label, input, textarea, select, form {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.6em;
+}
+p {
+    margin-bottom: 10px;
+}
+h1, h2, h3, th {
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
+}
+
+header {
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 15px 0;
+    background-color: #1e1e1e;
+}
+nav {
+    float: left;
+    width: 300px;
+    margin-left: 35px;
+    margin-top: 37px;
+}
+nav li {
+    display: inline;
+    list-style: none;
+}
+nav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-right: 30px;
+    font-weight: bold;
+    color: white;
+}
+nav a:visited {
+    color: white;
+}
+nav a:hover {
+    color: #ea5100;
+}
+#hamburger {
+    display: none;
+}
+.logo {
+    position: relative;
+    width: 170px;
+    height: auto;
+    margin: 0 auto;
+}
+#chooseRestaurant {
+    float: right;
+    margin-right: 35px;
+    color: white;
+    text-align: right;
+}
+.hiddenSetting {
+    position: relative;
+    top: -50px;
+}
+.showSetting {
+    position: relative;
+    animation-name: goDown;
+    animation-duration: 0.5s;
+}
+@keyframes goDown {
+    from {top: -50px;}
+    to {top: 0;}
+}
+#cityForm button {
+    border: none;
+    background-color: #ea5100;
+    padding: 7px 12px;
+    color: white;
+}
+#chooseRestaurant p {
+    margin: 0;
+}
+#chooseRestaurant img {
+    width: 25px;
+    height: auto;
+    position: relative;
+    top: 7px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.startdiv {
+    height: 400px;
+    background-image: url(../images/startbackground.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1 {
+    color: white;
+    font-size: 5rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding-top: 170px;
+    text-align: center;
+}
+h2 {
+    font-size: 3rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.btn {
+    text-decoration: none;
+    color: black;
+    background-color: #40a2aa;
+    border: 4px solid black;
+    padding: 10px 15px;
+    font-family: "Raleway", sans-serif;
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+}
+.btn:hover {
+    background-color: #ff783c;
+}
+.btnBox1 {
+    width: 140px;
+    margin: 30px auto;
+}
+.btnBox2 {
+    width: 169px;
+    margin: 30px auto;
+}
+#menuStart {
+    padding: 50px 0;
+    background-color: #ea5100;
+    color: white;
+}
+.innerContainer {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+.innerContainer p {
+    max-width: 400px;
+    text-align: center;
+    margin: 0 auto 10px auto;
+}
+h3 {
+    font-size: 2rem;
+    margin-bottom: 7px;
+    line-height: 1.2em;
+}
+#aboutStart {
+    padding: 50px 0;
+    min-height: 250px;
+    background-color: #bfd0d1;
+}
+b {
+    font-weight: bold;
+}
+#openHours {
+    width: 250px;
+    margin: 20px auto;
+    padding: 30px 30px 20px 30px;
+    border: 5px solid black;
+    background-color: white;
+    text-align: center;
+}
+#openHours p {
+    font-weight: bold;
+    text-align: center;
+}
+#openHours span {
+    font-weight: normal;
+}
+#aboutStart h3 {
+    text-align: center;
+}
+#aboutStart p:nth-child(2) {
+    font-weight: bold;
+}
+#aboutStart p span {
+    font-weight: normal;
+}
+
+/* Meny-sidan */
+.menupage {
+    height: 250px;
+    background-image: url(../images/menubackground.jpg);
+    background-attachment: unset;
+    background-position: center;
+}
+.menupage h1 {
+    padding-top: 100px;
+}
+#outerMenuWrapper {
+    background-color: #bfd0d1;
+}
+#menuContainer {
+    max-width: 95%;
+    margin: 0 auto;
+    overflow: auto;
+    padding: 70px 0;
+}
+#menuContainer section {
+    float: left;
+    width: 25%;
+    margin: 0 4%;
+}
+#menuContainer h2 {
+    text-align: left;
+    margin-bottom: 30px;
+}
+#menuContainer section div {
+    margin-bottom: 20px;
+}
+#menuContainer section div h3 span {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.8rem;
+}
+
+/* Om oss-sidan */
+.about {
+    padding: 50px 0;
+}
+.about div {
+    margin-bottom: 40px;
+}
+.about p {
+    max-width: 550px;
+    text-align: left;
+}
+.about a {
+    color: black;
+}
+.about a:visited {
+    color: black;
+}
+.about a:hover {
+    color: #ea5100;
+}
+
+/* Admin-sida */
+#adminContainer h1 {
+    color: black;
+    padding: 30px;
+    font-size: 2rem;
+    background-color: #bfd0d1;
+    margin-bottom: 50px;
+}
+#adminContainer #menuConfigBox {
+    width: 80%;
+    margin: 0 auto;
+}
+#adminContainer h2 {
+    text-align: left;
+}
+#addBox {
+    margin-bottom: 70px;
+}
+#addBox form {
+    background-color: #bfd0d1;
+    width: 400px;
+    padding: 40px;
+    border: none;
+}
+#addBox form input , #addBox form textarea, #addBox form select {
+    border: none;
+    padding: 1%;
+    width: 98%;
+    margin-bottom: 7px;
+}
+#addBox form span {
+    font-family: "Open Sans", sans-serif;
+    font-size: 1.3rem;
+    color: red;
+}
+#addBox form select {
+    width: 100%;
+}
+#addBox .radio {
+    width: initial;
+    margin-right: 15px;
+    margin-bottom: 10px;
+}
+#addBox #submit {
+    width: 100%;
+    margin-top: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+#submit:hover {
+    background-color: #ff783c;
+}
+table {
+    text-align: left;
+    width: 800px;
+    border-collapse: collapse;
+}
+tr {
+    border-bottom: 3px solid black;
+}
+th {
+    font-size: 1.5rem;
+    padding: 20px 15px 10px 15px;
+}
+tbody th {
+    padding-top: 40px;
+}
+td {
+    padding: 20px 15px;
+}
+td:nth-child(6), thead th:nth-child(6) {
+    width: 110px;
+}
+#allMenuItemBox {
+    margin-bottom: 70px;
+}
+
+/* FOOTER */
+footer {
+    background-color: #1e1e1e;
+    color: white;
+    width: 100%;
+    padding: 20px 0;
+}
+footer p {
+    text-align: center;
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+/* MEDIA QUERIES */
+/* Skärmar under 960px i bredd */
+@media screen and (max-width: 960px) {
+    /* Startsida */
+    body {
+        padding-top: 110px;
+    }
+    header {
+        padding-top: 45px;
+    }
+    .logo {
+        width: 120px;
+    }
+    nav {
+        position: absolute;
+        margin-top: 20px;
+    }
+    #hamburger {
+        display: block;
+        width: 30px;
+        height: auto;
+        cursor: pointer;
+    }
+    .defaultmenu ul {
+        display: none;
+    }
+    .showmenu {
+        position: absolute;
+    }
+    .showmenu ul {
+        display: inline-block;
+        position: absolute;
+        top: 40px;
+        left: -40px;
+        background-color: #1e1e1e;
+        padding: 40px;
+        height: 600px;
+    }
+    .showmenu li {
+        display: block;
+        margin-bottom: 20px;
+    }
+    #chooseRestaurant {
+        position: absolute;
+        left: 35px;
+        right: 0;
+        background-color: #1e1e1e;
+        z-index:10;
+        text-align: center;
+        padding-bottom: 15px;
+    }
+    .cityUp {
+        top: -30px;
+    }
+    #chooseRestaurant p {
+        text-align: center;
+    }
+    .cityDown {
+        top: 20px;
+    }
+    .hiddenSetting {
+        position: relative;
+        top: -50px;
+        margin: 0 auto;
+    }
+    .showSetting {
+        position: relative;
+        margin: 0 auto;
+        animation-name: goDownMobile;
+        animation-duration: 0.5s;
+    }
+
+    @keyframes goDownMobile {
+        from {
+            top: -50px;
+        }
+
+        to {
+            top: 0;
+        }
+    }
+    /* Meny-sidan */
+    #menuContainer section {
+        width: 42%;
+    }
+
+    /* Admin-sidan */
+    #tableContainer {
+        overflow-x: auto;
+        border-right: 3px solid #ea5100;
+    }
+}
+
+/* Skärmar under 450px i bredd */
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 3.8rem;
+    }
+    /* Meny-sidan */
+    #menuContainer section {
+        float: none;
+        padding-left: 0;
+        padding-right: 0;
+        width: 90%;
+        margin-bottom: 50px;
+    }
+
+    /* Om oss-sidan */
+    .about {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+    .about h2 {
+        text-align: left;
+    }
+
+    /* Admin-sidan */
+    #addBox {
+        width: 90%;
+    }
+    #addBox form {
+        width: 90%;
+        padding: 5%;
+    }
+}

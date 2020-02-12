@@ -1,0 +1,103 @@
+﻿@model Moment2.Models.Menu
+@{
+    ViewData["Title"] = "Admin";
+}
+
+<div id="adminContainer">
+    <h1>Administration</h1>
+
+    <div id="menuConfigBox">
+        <div id="addBox">
+            <h2>Lägg till i meny</h2>
+            <form method="post"> <!--Formulär för att lägga till nya menyobjekt, med validering mot modell-->
+                <div asp-validation-summary="ModelOnly"></div>
+            
+                <label asp-for="DishType">Typ av rätt<br />
+                <select asp-for="DishType" asp-items="Model.DishTypes" ></select>
+                </label><br />
+                <label asp-for="DishName">Namn på rätt </label><span asp-validation-for="DishName"></span><br />
+                <input asp-for="DishName" /><br />
+                <label asp-for="DishDescription">Beskrivning </label><br />
+                <textarea asp-for="DishDescription"></textarea><br />
+                <label asp-for="Vego">Vegetariskt</label><br />
+                <!--Loopar igenom array med värden för radiobuttons i modell och skriver ut som egna inputelement-->
+                @foreach (var vegoCtrl in Model.VegoCtrl) { @vegoCtrl
+                <input type="radio" class="radio" asp-for="Vego" value="@vegoCtrl" id="vego-@vegoCtrl" /> }<br />
+                <label asp-for="Price">Pris </label><span asp-validation-for="Price"></span><br />
+                <input asp-for="Price" value="" /><br />
+                <input type="submit" id="submit" value="Lägg till" />
+            </form>
+        </div>
+        <div id="allMenuItemBox">
+            <h2>Ta bort</h2>
+            <div id="tableContainer">
+                <table>
+                    <thead>
+                        <tr>
+                            <th></th>
+                            <th>Namn</th>
+                            <th>Beskrivning</th>
+                            <th>Vegetariskt</th>
+                            <th>Pris</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{
+                            // Lagrar data som skickats från controller i variabel av typen IEnumerable<Model>
+                            IEnumerable<Moment2.Models.Menu> menuItems = (IEnumerable<Moment2.Models.Menu>)ViewBag.menuList;
+                            <tr><th>Förrätter</th><th></th><th></th><th></th><th></th><th></th></tr>
+                            foreach (var item in menuItems) // Loopar igenom objekten med data och skriver ut de med DishType == Förrätt
+                            {
+                                if (item.DishType == "Förrätt")
+                                {
+                                    <tr>
+                                        <td>@item.DishType</td>
+                                        <td>@item.DishName</td>
+                                        <td>@item.DishDescription</td>
+                                        <td>@item.Vego</td>
+                                        <td>@item.Price</td>
+                                        <td>
+                                            <a asp-controller="Home" asp-action="Admin" asp-route-id="@item.Id" class="btn">Ta bort</a> <!--Länk som skickar objekt-id:t som parameter i URL-->
+                                        </td>
+                                    </tr>
+                                }
+                            }
+                            <tr><th>Varmrätter</th><th></th><th></th><th></th><th></th><th></th></tr>
+                            foreach (var item in menuItems) // Loopar igenom objekten med data och skriver ut de med DishType == Varmrätt
+                            {
+                                if (item.DishType == "Varmrätt")
+                                {
+                    <tr>
+                        <td>@item.DishType</td>
+                        <td>@item.DishName</td>
+                        <td>@item.DishDescription</td>
+                        <td>@item.Vego</td>
+                        <td>@item.Price</td>
+                        <td><a asp-controller="Home" asp-action="Admin" asp-route-id="@item.Id" class="btn">Ta bort</a></td> <!--Länk som skickar objekt-id:t som parameter i URL-->
+                    </tr>
+                                }
+                            }
+                            <tr><th>Efterrätter</th><th></th><th></th><th></th><th></th><th></th></tr>
+                            foreach (var item in menuItems) // Loopar igenom objekten med data och skriver ut de med DishType == Efterrätt
+                            {
+                                if (item.DishType == "Efterrätt")
+                                {
+                    <tr>
+                        <td>@item.DishType</td>
+                        <td>@item.DishName</td>
+                        <td>@item.DishDescription</td>
+                        <td>@item.Vego</td>
+                        <td>@item.Price</td>
+                        <td><a asp-controller="Home" asp-action="Admin" asp-route-id="@item.Id" class="btn">Ta bort</a></td> <!--Länk som skickar objekt-id:t som parameter i URL-->
+                    </tr>
+                                }
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,6624 @@
+[
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 5,
+    "DishName": "Råraka",
+    "DishDescription": "Löjrom, smetana och rödlök",
+    "Price": 180.0,
+    "Vego": null,
+    "DishType": "Förrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  },
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 14,
+    "DishName": "Carpaccio på älgytterfilé (Sverige)",
+    "DishDescription": "Kalix löjrom, brynt smörmajonnäs, inlagd romaneskoblomkål, krispigt bröd, grönkålspulver samt soya.",
+    "Price": 179.0,
+    "Vego": null,
+    "DishType": "Förrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  },
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 15,
+    "DishName": "Grillad torskrygg",
+    "DishDescription": "Smörad musselbuljong, musslor, bakade rotfrukter, sockerärtor, bakad lökcreme samksatt med apelsin samt grillat surdegsbröd.",
+    "Price": 259.0,
+    "Vego": null,
+    "DishType": "Varmrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  },
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 16,
+    "DishName": "Gravad pilgrimsmussla",
+    "DishDescription": "Serveras med pepparrot, krondillssyrad gurka, forellrom och blomkålscréme",
+    "Price": 180.0,
+    "Vego": null,
+    "DishType": "Förrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  },
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 17,
+    "DishName": "Majskyckling (Sverige)",
+    "DishDescription": "Serveras med krispigt kycklingskinn, gräddkokt majs, bakad och friterad purjolök, krispig quinoa och jalapeño-olja",
+    "Price": 195.0,
+    "Vego": null,
+    "DishType": "Varmrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  },
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 18,
+    "DishName": "Cheesecake",
+    "DishDescription": "Med hjortron, kaksmulor och vit choklad",
+    "Price": 90.0,
+    "Vego": null,
+    "DishType": "Efterrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  },
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 19,
+    "DishName": "Mandelkaka",
+    "DishDescription": "Med blåbärssorbet, lemoncurd, citrontimjan, yoghurt och rågbröd",
+    "Price": 90.0,
+    "Vego": null,
+    "DishType": "Efterrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  },
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 20,
+    "DishName": "Gnocchi smaksatt med västerbottenost (Veg)",
+    "DishDescription": "Bondbönspurè, bakad persiljerot, svampfylld savoykål, fiorinablomkål, grillad lök, samt friterad svartkål.",
+    "Price": 229.0,
+    "Vego": null,
+    "DishType": "Varmrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  },
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 21,
+    "DishName": "Svampsoppa",
+    "DishDescription": "Trattkantareller, smörsekt bröd, färskost med pepparrot samt torkat renkött.",
+    "Price": 140.0,
+    "Vego": null,
+    "DishType": "Förrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  },
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 22,
+    "DishName": "Flankstek 200g",
+    "DishDescription": "Bearnaise, confiterade tomater, glacerad lök samt pommes.",
+    "Price": 259.0,
+    "Vego": null,
+    "DishType": "Varmrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  },
+  {
+    "VegoCtrl": [
+      "Nej",
+      "Ja"
+    ],
+    "Id": 23,
+    "DishName": "Glacerat äpple",
+    "DishDescription": "Calvadossglass, karamell, rökt äppelpurè. filodeg, torkat äpple samt rostad mandel",
+    "Price": 99.0,
+    "Vego": null,
+    "DishType": "Efterrätt",
+    "DishTypes": [
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Förrätt",
+        "Value": "Förrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Varmrätt",
+        "Value": "Varmrätt"
+      },
+      {
+        "Disabled": false,
+        "Group": null,
+        "Selected": false,
+        "Text": "Efterrätt",
+        "Value": "Efterrätt"
+      }
+    ]
+  }
+]

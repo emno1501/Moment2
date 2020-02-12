@@ -1,0 +1,40 @@
+﻿<!DOCTYPE html>
+
+<html lang="se">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" type="text/css" href="~/css/style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Raleway:900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav id="navigation" class="defaultmenu">
+            <img src="~/images/hamburger.svg" alt="meny" id="hamburger" />
+            <ul>
+                <li><a asp-controller="Home" asp-action="Index">Start</a></li>
+                <li><a asp-controller="Home" asp-action="Menu">Meny</a></li>
+                <li><a asp-controller="Home" asp-action="About">Om oss</a></li>
+            </ul>
+        </nav>
+        <!--Val av ort-->
+        <div id="chooseRestaurant" class="cityUp">
+            <form method="get" asp-controller="Home" id="cityForm" class="hiddenSetting">
+                <button name="Ort" value="Stockholm">Stockholm</button>
+                <button name="Ort" value="Sundsvall">Sundsvall</button>
+                <button name="Ort" value="Umeå">Umeå</button>
+            </form>
+            <p>Restaurang: @ViewData["ort"] <img src="~/images/settings.svg" id="citySetting" /></p>
+        </div>
+        <div class="logo"><a asp-controller="Home" asp-action="Index"><img src="~/images/logo.svg" alt="logotyp" /></a></div>
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+    <footer>
+        <p>Copyright @DateTime.Now.Year Emmas Mat & Bar</p>
+    </footer>
+    <script src="~/js/main.js"></script>
+</body>
+</html>

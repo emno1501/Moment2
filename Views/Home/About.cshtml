@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewData["Title"] = "Om oss";
+}
+
+<div class="startdiv">
+    <h1>Om oss</h1>
+</div>
+<div class="innerContainer about">
+    <div>
+        <h2>Vår mat</h2>
+        <p>
+            Du som älskar vegetariskt, kött, skaldjur, fisk eller fågel.
+            Allt lagat från grunden i minsta detalj. Ingenting annat duger i Emmas Mat & Bar.
+            Allt som serveras är äkta vara och tillagad med passion, glädje och erfarenhet.
+            Filosofin är en dröm om att vara absolut bäst på det vi gör.
+            Till ett bra pris för dig.
+        </p>
+    </div>
+    <div>
+        <h2>Vår historia</h2>
+        <p>
+            Emmas Mat & Bar slog upp dörrarna i Stockholm 2016 och blev snabbt en succé.
+            2018 etablerade sig restaurangen i Sundsvall och året därefter arbetade vi oss upp till Umeå
+            där vi slog upp dörrarna i juni 2019.
+        </p>
+    </div>
+    <div>
+        <h2>Kontakt</h2>
+        <p>
+            Om du har några frågor, vill skicka in en spontan jobbansökan eller klaga på något så kan du kontakta oss på
+            <a href="mailto:kontakt@emmasmatochbar.se">kontakt@emmasmatochbar.se</a>
+        </p>
+        <!-- Partial - Öppettider -->
+        @await Html.PartialAsync("_OpenHoursPartial")
+    </div>
+</div>
+
